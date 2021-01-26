@@ -5,7 +5,6 @@
         <ul id="nav-mobile" class="left show-on-med-and-down">
           <li><a href="#">Mascotas</a></li>
           <li><a href="#">Categorias</a></li>
-          <li><a href="#">Etiquetas</a></li>
         </ul>
       </div>
     </nav>
