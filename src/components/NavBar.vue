@@ -2,10 +2,11 @@
   <div>
     <nav>
       <div class="nav-wrapper">
-        <ul id="nav-mobile" class="left show-on-med-and-down">
+        <h3 style="margin-left: 2%; margin-top: 1%" class="left">PETS</h3>
+        <!-- <ul id="nav-mobile" class="left show-on-med-and-down">
           <li><a href="#">Mascotas</a></li>
           <li><a href="#">Categorias</a></li>
-        </ul>
+        </ul> -->
       </div>
     </nav>
   </div>
